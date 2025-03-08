@@ -1,4 +1,4 @@
-####################################Student Registration System########################################
+#Student Registration System#
 
 This is a full-stack web application built with React for the frontend, Node.js for the backend, and MySQL for the database. It allows students and teachers to register, log in. Students can update their personal information and upload a profile picture, while teachers can view, update, or delete student records, including managing marks for 9 subjects.
 
